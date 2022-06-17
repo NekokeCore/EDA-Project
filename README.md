@@ -7,7 +7,7 @@ Recently got hooked on electronic design, in order to better learn and improve s
 ## What's in here?
 | Project Name | Project ID | Date | Status |
 | ---- | ---- | ---- | ---- |
-| 给星源俊杰的电子小礼物 | 202204281 | 2022.4.28 | Not Finshed |
-
+| A gift for some friends | 202204281 | 2022.4.28 | Merged |
+| Keyboard Project | 202206011 | 2022.6.1 | Almost |
 ## Credit
-Not yet.
+Everyone in E-Group.

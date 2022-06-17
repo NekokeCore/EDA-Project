@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=JTAG_SW Old DesignItemId=HDR1x4 New DesignItemId=HDR1x4_Œ‘
+Change Component DesignItemId : Designator=UART5 Old DesignItemId=HDR1x4 New DesignItemId=HDR1x4_Œ‘
+Change Component DesignItemId : Designator=USART1 Old DesignItemId=HDR1x4 New DesignItemId=HDR1x4_Œ‘
+Change Component DesignItemId : Designator=USART3 Old DesignItemId=HDR1x4 New DesignItemId=HDR1x4_Œ‘
+Added Component: Designator=AT_Config(MX 1.25-WS-5P)
+Added Member To Class: ClassName=¿∂—¿∫Õ ˝æ› Member=Component AT_Config HDR1x4
