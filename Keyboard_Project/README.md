@@ -3,7 +3,7 @@
   这是一次尝试性质的实验，目前的板子还在测试阶段，请勿用于生产方向。
 
 ## 展示
-![image](Document\keyboard-layout.png)
+![image](https://github.com/NekokeCore/EDA-Project/blob/main/Keyboard_Project/Document/keyboard-layout.png?raw=true)
 
-![image2](Document\SCH1.png)
+![image2](https://github.com/NekokeCore/EDA-Project/blob/main/Keyboard_Project/Document/SCH1.png?raw=true)
 
