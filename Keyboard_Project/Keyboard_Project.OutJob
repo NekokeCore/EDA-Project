@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\nekok\Desktop\Keyboard_Project\.PDF
+OutputFilePath2=D:\EDA_Project\EDA-Project\Keyboard_Project\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\nekok\Desktop\Keyboard_Project\
+OutputBasePath2=D:\EDA_Project\EDA-Project\Keyboard_Project\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\nekok\Desktop\Keyboard_Project\.PDF
+RelativeOutputPath2=D:\EDA_Project\EDA-Project\Keyboard_Project\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
