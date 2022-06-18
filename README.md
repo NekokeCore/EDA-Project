@@ -8,6 +8,6 @@ Recently got hooked on electronic design, in order to better learn and improve s
 | Project Name | Project ID | Date | Status |
 | ---- | ---- | ---- | ---- |
 | [A gift for some friends](https://www.emtips.net) | 202204281 | 2022.4.28 | Merged |
-| [Keyboard Project](https://github.com/NekokeCore/EDA-Project/tree/main/Keyboard_Project) | 202206011 | 2022.6.1 | Almost |
+| [Keyboard Project](https://github.com/NekokeCore/EDA-Project/tree/main/Keyboard_Project) | 202206011 | 2022.6.1 | Finished，Debugging |
 ## Credit
 Everyone in E-Group.
