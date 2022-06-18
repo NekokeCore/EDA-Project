@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=SW12 NewDesignator=SW7
+Change Component Designator: OldDesignator=SW13 NewDesignator=SW8
+Change Component Designator: OldDesignator=SW14 NewDesignator=SW9
+Change Component Designator: OldDesignator=SW15 NewDesignator=SW10
+Change Component Designator: OldDesignator=SW16 NewDesignator=SW11
+Change Component Designator: OldDesignator=SW17 NewDesignator=SW12
+Added Member To Class: ClassName=Sheet1 Member=Component SW7 MX_SW

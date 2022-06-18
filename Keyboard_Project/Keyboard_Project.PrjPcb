@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=Project Outputs for Keyboard_Project
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -41,6 +41,57 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=键盘-DeckDes.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YXRPVBUV
+
+[Document2]
+DocumentPath=键盘-Tony.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YXRPVBUV
+
+[Document3]
+DocumentPath=键盘-星源.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YXRPVBUV
+
+[Document4]
 DocumentPath=主板.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -57,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SIXWVYLD
 
-[Document2]
+[Document5]
 DocumentPath=蓝牙和数据.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRWPPZRU
 
-[Document3]
+[Document6]
 DocumentPath=键盘扫描.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYGQSQXU
 
-[Document4]
+[Document7]
 DocumentPath=键盘.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,24 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DXBVKIUP
 
-[Document5]
-DocumentPath=STM32F405.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LPHPGRCK
-
-[Document6]
+[Document8]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +176,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEVUKTGY
 
-[Document7]
+[Document9]
+DocumentPath=STM32F405.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LPHPGRCK
+
+[Document10]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,24 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHXNVYIQ
 
-[Document8]
-DocumentPath=星源LOGO.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RIJVBGPL
-
-[Document9]
+[Document11]
 DocumentPath=Keyboard_Project.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document12]
 DocumentPath=hoshiyo.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +291,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Keyboard_Project
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -765,71 +799,41 @@ OutputName4=Export STEP
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=Ansoft Neutral
-OutputName5=Ansoft Neutral (AutoPCB)
+OutputType5=ExportPARASOLID
+OutputName5=Export PARASOLID
 OutputDocumentPath5=
-OutputVariantName5=
+OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=ExportPARASOLID
-OutputName6=Export PARASOLID
+OutputType6=ExportVRML
+OutputName6=Export VRML
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=ExportVRML
-OutputName7=Export VRML
+OutputType7=MBAExportPARASOLID
+OutputName7=Export PARASOLID
 OutputDocumentPath7=
-OutputVariantName7=[No Variations]
+OutputVariantName7=
 OutputDefault7=0
-OutputType8=HyperLynx
-OutputName8=HyperLynx (AutoPCB)
+OutputType8=MBAExportSTEP
+OutputName8=Export STEP
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=MBAExportPARASOLID
-OutputName9=Export PARASOLID
+OutputType9=Save As/Export PCB
+OutputName9=Save As/Export PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MBAExportSTEP
-OutputName10=Export STEP
+OutputType10=Save As/Export Schematic
+OutputName10=Save As/Export Schematic
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=Orcad v7 Capture Design
-OutputName11=Orcad v7 Capture Design (AutoSCH)
+OutputType11=Specctra Design PCB
+OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=P-CAD ASCII
-OutputName12=P-CAD ASCII (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=P-CAD V16 Schematic Design
-OutputName13=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Save As/Export PCB
-OutputName14=Save As/Export PCB
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Save As/Export Schematic
-OutputName15=Save As/Export Schematic
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=SiSoft
-OutputName16=SiSoft (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=Specctra Design PCB
-OutputName17=Specctra Design PCB
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
