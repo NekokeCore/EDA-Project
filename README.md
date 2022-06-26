@@ -1,6 +1,8 @@
-# EDA-Project
+<p align="center"><img src="https://github.com/NekokeCore/EDA-Project/blob/main/Keyboard_Project/Document/logo-2.png?raw=true" alt="MarkText" width="300"></p>
 
-Welcome to NekokeCore’s EDA Project OpenSource Repository
+<h1 align="center">EDA-Project</h1>
+
+<p align="center">Welcome to NekokeCore’s EDA Project OpenSource Repository</p>
 
 ## Why I created this repository？
 
