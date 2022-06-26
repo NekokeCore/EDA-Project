@@ -1,7 +1,11 @@
-# EDA-Project
-NekokeCore’s EDA Project OpenSource Repository
+<img style="clear: both; display: block; margin: auto;" src="https://github.com/NekokeCore/EDA-Project/blob/main/Keyboard_Project/Document/logo-2.png?raw=true" width ="300">
+
+<center><h1>EDA-Project</h1></center>
+
+<center>Welcome to NekokeCore’s EDA Project OpenSource Repository</center>
 
 ## Why I created this repository？
+
 Recently got hooked on electronic design, in order to better learn and improve so created this repository, I hope you point out my mistakes, which will help me a lot.
 
 ## What's in here?
