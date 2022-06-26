@@ -7,7 +7,7 @@ Recently got hooked on electronic design, in order to better learn and improve s
 ## What's in here?
 | Project Name | Project ID | Date | Status |
 | ---- | ---- | ---- | ---- |
-| [A gift for some friends](https://www.emtips.net) | 202204281 | 2022.4.28 | Merged |
+| [A gift for some friends](https://www.emtips.net) | 2022042810 | 2022.4.28 | Merged |
 | [Keyboard Project](https://github.com/NekokeCore/EDA-Project/tree/main/Keyboard_Project) | 2022060110 | 2022.6.1 | Finished，Debugging |
 | [Testboard Project](https://github.com/NekokeCore/EDA-Project/tree/main/TestKeyBoard_Project) | 2022060180 | 2022.6.18 | Finished Step A2，Producing |
 | [USBDisk Project](https://github.com/NekokeCore/EDA-Project/tree/main/USB_Disk_Project) | 2022060200 | 2022.6.20 | In Progress |
