@@ -20,7 +20,3 @@ Recently got hooked on electronic design, in order to better learn and improve s
 ## Credit
 
 Not yet.
-
-```flowchart
-
-```
