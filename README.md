@@ -18,7 +18,7 @@ Recently got hooked on electronic design, in order to better learn and improve s
 | [USBDisk Project](https://github.com/NekokeCore/EDA-Project/tree/main/USB_Disk_Project)       | 2022060200 | 2022.6.20 | In Progress                |
 | [Coredunio Project](https://github.com/NekokeCore/EDA-Project/tree/main/Coreduino_Project)    | 2022060230 | 2022.6.23 | In Progress                |
 | [Vibrator Project](https://github.com/NekokeCore/EDA-Project/tree/main/Vibrator_Project)      | 2022060201 | 2022.6.20 | In Progress                |
-| [Network Switch Project](https://github.com/NekokeCore/EDA-Project/tree/main/Vibrator_Project)      | 202206290 | 2022.6.29 | Working               |
+| [Network Switch Project](https://github.com/NekokeCore/EDA-Project/tree/main/CoredunioNet_Project)      | 202206290 | 2022.6.29 | Working               |
 
 ## Credit
 
