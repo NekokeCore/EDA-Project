@@ -1,4 +1,4 @@
-<p align="center"><img src="./Keyboard_Project/Document/logo-2.png" alt="MarkText" width="300"></p>
+<p align="center"><img src="./2022-Keyboard_Project/Document/logo-2.png" alt="MarkText" width="300"></p>
 
 <h1 align="center">EDA-Project</h1>
 
