@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\EDA_Project\EDA-Project\TestKeyBoard_Project\PCB2.PcbDoc
+Date         : 2022/6/27
+Time         : 23:48:47
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 192
+    Connections routed, 192
+    Connections remaining, 0
+count : 4

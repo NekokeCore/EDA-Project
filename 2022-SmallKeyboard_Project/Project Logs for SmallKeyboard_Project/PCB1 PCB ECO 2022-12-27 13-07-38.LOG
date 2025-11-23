@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=D49-1
+Removed Pin From Net: NetName=DIN_9 Pin=D49-2
+Removed Pin From Net: NetName=VBUS Pin=D49-3
+Removed Pin From Net: NetName=GND Pin=D50-1
+Removed Pin From Net: NetName=VBUS Pin=D50-3
+Removed Pin From Net: NetName=GND Pin=D51-1
+Removed Pin From Net: NetName=VBUS Pin=D51-3
+Removed Member From Class: ClassName=Sheet2 Member=D49
+Removed Member From Class: ClassName=Sheet2 Member=D50
+Removed Member From Class: ClassName=Sheet2 Member=D51
+Added Member To Class: ClassName=Sheet1 Member=Component X1 X49SM16MSD2SC
+Added Member To Class: ClassName=Sheet1 Member=Component | Cheery MX »»∞Œ≤Â÷·
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

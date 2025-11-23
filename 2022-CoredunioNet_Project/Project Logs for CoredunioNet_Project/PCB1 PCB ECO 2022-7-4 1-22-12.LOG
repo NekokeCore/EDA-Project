@@ -1,0 +1,139 @@
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found CAP-SMD_BD10.0-L10.3-W10.3-LS11.0-FD
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found C 0603_L
+Add Component: Footprint Not Found CAP-SMD_BD6.3-L6.6-W6.6-LS7.2-FD
+Add Component: Footprint Not Found LED 0805G
+Add Component: Footprint Not Found LED 0805G
+Add Component: Footprint Not Found FU 1206
+Add Component: Footprint Not Found FU 1206
+Add Component: Footprint Not Found HDR-TH_8P-P2.00-V-M-R2-C4-S2.00-2
+Add Component: Footprint Not Found AO3400A
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found R 0603_L
+Add Component: Footprint Not Found SMD-3.2*4.2
+Add Component: Footprint Not Found RJ45-TH_HR911130A
+Add Component: Footprint Not Found RJ45-TH_HR911130A
+Add Component: Footprint Not Found RJ45-TH_HR911130A
+Add Component: Footprint Not Found RJ45-TH_HR911130A
+Add Component: Footprint Not Found RJ45-TH_HR911130A
+Add Component: Footprint Not Found MQFN-88_L10.0-W10.0-P0.40-BL-EP8.5
+Add Component: Footprint Not Found TO-252-3_L6.5-W5.8-P4.58-TL
+Add Component: Footprint Not Found SOT-223_L6.5-W3.5-P2.30-LS7.0-BR
+Add Component: Footprint Not Found TYPE-C-SMD_TYPE-C-6P
+Add Component: Footprint Not Found OSC-SMD_4P-L3.2-W2.5-BL
+Added Net: Name=GND
+Added Net: Name=NetC1_1
+Added Net: Name=NetC2_1
+Added Net: Name=NetC3_1
+Added Net: Name=NetC4_1
+Added Net: Name=NetC5_1
+Added Net: Name=NetC8_1
+Added Net: Name=NetD1_1
+Added Net: Name=NetD1_2
+Added Net: Name=NetF1_1
+Added Net: Name=NetF2_1
+Added Net: Name=NetQ1_1
+Added Net: Name=NetR5_2
+Added Net: Name=NetR12_2
+Added Net: Name=NetR14_1
+Added Net: Name=NetR15_2
+Added Net: Name=NetR16_2
+Added Net: Name=NetR18_1
+Added Net: Name=NetR19_1
+Added Net: Name=PHY0_LED_0
+Added Net: Name=PHY0_LED_1
+Added Net: Name=PHY0_MDIA_N
+Added Net: Name=PHY0_MDIA_P
+Added Net: Name=PHY0_MDIB_N
+Added Net: Name=PHY0_MDIB_P
+Added Net: Name=PHY0_MDIC_N
+Added Net: Name=PHY0_MDIC_P
+Added Net: Name=PHY0_MDID_N
+Added Net: Name=PHY0_MDID_P
+Added Net: Name=PHY1_LED_0
+Added Net: Name=PHY1_LED_1
+Added Net: Name=PHY1_MDIA_N
+Added Net: Name=PHY1_MDIA_P
+Added Net: Name=PHY1_MDIB_N
+Added Net: Name=PHY1_MDIB_P
+Added Net: Name=PHY1_MDIC_N
+Added Net: Name=PHY1_MDIC_P
+Added Net: Name=PHY1_MDID_N
+Added Net: Name=PHY1_MDID_P
+Added Net: Name=PHY2_LED_0
+Added Net: Name=PHY2_LED_1
+Added Net: Name=PHY2_MDIA_N
+Added Net: Name=PHY2_MDIA_P
+Added Net: Name=PHY2_MDIB_N
+Added Net: Name=PHY2_MDIB_P
+Added Net: Name=PHY2_MDIC_N
+Added Net: Name=PHY2_MDIC_P
+Added Net: Name=PHY2_MDID_N
+Added Net: Name=PHY2_MDID_P
+Added Net: Name=PHY3_LED_0
+Added Net: Name=PHY3_LED_1
+Added Net: Name=PHY3_MDIA_N
+Added Net: Name=PHY3_MDIA_P
+Added Net: Name=PHY3_MDIB_N
+Added Net: Name=PHY3_MDIB_P
+Added Net: Name=PHY3_MDIC_N
+Added Net: Name=PHY3_MDIC_P
+Added Net: Name=PHY3_MDID_N
+Added Net: Name=PHY3_MDID_P
+Added Net: Name=PHY4_LED_0
+Added Net: Name=PHY4_LED_1
+Added Net: Name=PHY4_MDIA_N
+Added Net: Name=PHY4_MDIA_P
+Added Net: Name=PHY4_MDIB_N
+Added Net: Name=PHY4_MDIB_P
+Added Net: Name=PHY4_MDIC_N
+Added Net: Name=PHY4_MDIC_P
+Added Net: Name=PHY4_MDID_N
+Added Net: Name=PHY4_MDID_P
+Added Net: Name=RESET
+Added Net: Name=UART_RX
+Added Net: Name=UART_TX
+Added Net: Name=VCC1V
+Added Net: Name=VCC3V3
+Added Net: Name=VCC5V
+Added Net: Name=XTALI
+Added Net: Name=XTALO
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

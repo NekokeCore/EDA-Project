@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=PHY2_LED_0 Pin=R25-2
+Removed Pin From Net: NetName=PHY3_LED_0 Pin=R26-2
+Removed Pin From Net: NetName=PHY4_LED_0 Pin=R27-2
+Removed Pin From Net: NetName=PHY3_LED_1 Pin=RJ3-11
+Removed Pin From Net: NetName=PHY3_LED_1 Pin=RJ3-13
+Removed Pin From Net: NetName=PHY4_LED_1 Pin=RJ4-11
+Removed Pin From Net: NetName=PHY4_LED_1 Pin=RJ4-13
+Removed Pin From Net: NetName=PHY2_LED_1 Pin=RJ5-11
+Removed Pin From Net: NetName=PHY2_LED_1 Pin=RJ5-13
+Added Pin To Net: NetName=PHY4_LED_0 Pin=R25-2
+Added Pin To Net: NetName=PHY2_LED_0 Pin=R26-2
+Added Pin To Net: NetName=PHY3_LED_0 Pin=R27-2
+Added Pin To Net: NetName=PHY2_LED_1 Pin=RJ3-11
+Added Pin To Net: NetName=PHY2_LED_1 Pin=RJ3-13
+Added Pin To Net: NetName=PHY3_LED_1 Pin=RJ4-11
+Added Pin To Net: NetName=PHY3_LED_1 Pin=RJ4-13
+Added Pin To Net: NetName=PHY4_LED_1 Pin=RJ5-11
+Added Pin To Net: NetName=PHY4_LED_1 Pin=RJ5-13
+Added Room: Name=Sheet1

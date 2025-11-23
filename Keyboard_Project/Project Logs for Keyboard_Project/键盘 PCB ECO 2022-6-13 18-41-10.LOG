@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=VCC3V3_BT Pin=AT_Config-1
-Added Pin To Net: NetName=GND_BT Pin=AT_Config-2
-Added Pin To Net: NetName=HC_RX Pin=AT_Config-3
-Added Pin To Net: NetName=HC_TX Pin=AT_Config-4
-Added Pin To Net: NetName=HC_KEY Pin=AT_Config-5

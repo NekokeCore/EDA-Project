@@ -1,0 +1,131 @@
+Added Pin To Net: NetName=VCC5V Pin=H1-7
+Added Pin To Net: NetName=XTALO Pin=U1-78
+Added Pin To Net: NetName=XTALI Pin=U1-79
+Added Pin To Net: NetName=RESET Pin=U1-80
+Added Pin To Net: NetName=PHY0_MDIA_N Pin=RJ1-P3
+Added Pin To Net: NetName=PHY0_MDIA_N Pin=U1-85
+Added Net: Name=PHY0_MDIA_N
+Added Pin To Net: NetName=PHY0_MDIA_P Pin=RJ1-P2
+Added Pin To Net: NetName=PHY0_MDIA_P Pin=U1-84
+Added Net: Name=PHY0_MDIA_P
+Added Pin To Net: NetName=PHY0_MDIB_N Pin=RJ1-P7
+Added Pin To Net: NetName=PHY0_MDIB_N Pin=U1-87
+Added Net: Name=PHY0_MDIB_N
+Added Pin To Net: NetName=PHY0_MDIB_P Pin=RJ1-P4
+Added Pin To Net: NetName=PHY0_MDIB_P Pin=U1-86
+Added Net: Name=PHY0_MDIB_P
+Added Pin To Net: NetName=PHY0_MDIC_N Pin=RJ1-P6
+Added Pin To Net: NetName=PHY0_MDIC_N Pin=U1-2
+Added Net: Name=PHY0_MDIC_N
+Added Pin To Net: NetName=PHY0_MDIC_P Pin=RJ1-P5
+Added Pin To Net: NetName=PHY0_MDIC_P Pin=U1-1
+Added Net: Name=PHY0_MDIC_P
+Added Pin To Net: NetName=PHY0_MDID_N Pin=RJ1-P9
+Added Pin To Net: NetName=PHY0_MDID_N Pin=U1-4
+Added Net: Name=PHY0_MDID_N
+Added Pin To Net: NetName=PHY0_MDID_P Pin=RJ1-P8
+Added Pin To Net: NetName=PHY0_MDID_P Pin=U1-3
+Added Net: Name=PHY0_MDID_P
+Added Pin To Net: NetName=PHY1_MDIA_N Pin=RJ2-P3
+Added Pin To Net: NetName=PHY1_MDIA_N Pin=U1-7
+Added Net: Name=PHY1_MDIA_N
+Added Pin To Net: NetName=PHY1_MDIA_P Pin=RJ2-P2
+Added Pin To Net: NetName=PHY1_MDIA_P Pin=U1-6
+Added Net: Name=PHY1_MDIA_P
+Added Pin To Net: NetName=PHY1_MDIB_N Pin=RJ2-P7
+Added Pin To Net: NetName=PHY1_MDIB_N Pin=U1-9
+Added Net: Name=PHY1_MDIB_N
+Added Pin To Net: NetName=PHY1_MDIB_P Pin=RJ2-P4
+Added Pin To Net: NetName=PHY1_MDIB_P Pin=U1-8
+Added Net: Name=PHY1_MDIB_P
+Added Pin To Net: NetName=PHY1_MDIC_N Pin=RJ2-P6
+Added Pin To Net: NetName=PHY1_MDIC_N Pin=U1-12
+Added Net: Name=PHY1_MDIC_N
+Added Pin To Net: NetName=PHY1_MDIC_P Pin=RJ2-P5
+Added Pin To Net: NetName=PHY1_MDIC_P Pin=U1-11
+Added Net: Name=PHY1_MDIC_P
+Added Pin To Net: NetName=PHY1_MDID_N Pin=RJ2-P9
+Added Pin To Net: NetName=PHY1_MDID_N Pin=U1-14
+Added Net: Name=PHY1_MDID_N
+Added Pin To Net: NetName=PHY1_MDID_P Pin=RJ2-P8
+Added Pin To Net: NetName=PHY1_MDID_P Pin=U1-13
+Added Net: Name=PHY1_MDID_P
+Added Pin To Net: NetName=PHY2_MDIA_N Pin=RJ3-P3
+Added Pin To Net: NetName=PHY2_MDIA_N Pin=U1-17
+Added Net: Name=PHY2_MDIA_N
+Added Pin To Net: NetName=PHY2_MDIA_P Pin=RJ3-P2
+Added Pin To Net: NetName=PHY2_MDIA_P Pin=U1-16
+Added Net: Name=PHY2_MDIA_P
+Added Pin To Net: NetName=PHY2_MDIB_N Pin=RJ3-P7
+Added Pin To Net: NetName=PHY2_MDIB_N Pin=U1-19
+Added Net: Name=PHY2_MDIB_N
+Added Pin To Net: NetName=PHY2_MDIB_P Pin=RJ3-P4
+Added Pin To Net: NetName=PHY2_MDIB_P Pin=U1-18
+Added Net: Name=PHY2_MDIB_P
+Added Pin To Net: NetName=PHY2_MDIC_N Pin=RJ3-P6
+Added Pin To Net: NetName=PHY2_MDIC_N Pin=U1-22
+Added Net: Name=PHY2_MDIC_N
+Added Pin To Net: NetName=PHY2_MDIC_P Pin=RJ3-P5
+Added Pin To Net: NetName=PHY2_MDIC_P Pin=U1-21
+Added Net: Name=PHY2_MDIC_P
+Added Pin To Net: NetName=PHY2_MDID_N Pin=RJ3-P9
+Added Pin To Net: NetName=PHY2_MDID_N Pin=U1-24
+Added Net: Name=PHY2_MDID_N
+Added Pin To Net: NetName=PHY2_MDID_P Pin=RJ3-P8
+Added Pin To Net: NetName=PHY2_MDID_P Pin=U1-23
+Added Net: Name=PHY2_MDID_P
+Added Pin To Net: NetName=PHY3_MDIA_N Pin=RJ4-P3
+Added Pin To Net: NetName=PHY3_MDIA_N Pin=U1-27
+Added Net: Name=PHY3_MDIA_N
+Added Pin To Net: NetName=PHY3_MDIA_P Pin=RJ4-P2
+Added Pin To Net: NetName=PHY3_MDIA_P Pin=U1-26
+Added Net: Name=PHY3_MDIA_P
+Added Pin To Net: NetName=PHY3_MDIB_N Pin=RJ4-P7
+Added Pin To Net: NetName=PHY3_MDIB_N Pin=U1-29
+Added Net: Name=PHY3_MDIB_N
+Added Pin To Net: NetName=PHY3_MDIB_P Pin=RJ4-P4
+Added Pin To Net: NetName=PHY3_MDIB_P Pin=U1-28
+Added Net: Name=PHY3_MDIB_P
+Added Pin To Net: NetName=PHY3_MDIC_N Pin=RJ4-P6
+Added Pin To Net: NetName=PHY3_MDIC_N Pin=U1-32
+Added Net: Name=PHY3_MDIC_N
+Added Pin To Net: NetName=PHY3_MDIC_P Pin=RJ4-P5
+Added Pin To Net: NetName=PHY3_MDIC_P Pin=U1-31
+Added Net: Name=PHY3_MDIC_P
+Added Pin To Net: NetName=PHY3_MDID_N Pin=RJ4-P9
+Added Pin To Net: NetName=PHY3_MDID_N Pin=U1-34
+Added Net: Name=PHY3_MDID_N
+Added Pin To Net: NetName=PHY3_MDID_P Pin=RJ4-P8
+Added Pin To Net: NetName=PHY3_MDID_P Pin=U1-33
+Added Net: Name=PHY3_MDID_P
+Added Pin To Net: NetName=PHY4_MDIA_N Pin=RJ5-P2
+Added Pin To Net: NetName=PHY4_MDIA_N Pin=U1-44
+Added Net: Name=PHY4_MDIA_N
+Added Pin To Net: NetName=PHY4_MDIA_P Pin=RJ5-P3
+Added Pin To Net: NetName=PHY4_MDIA_P Pin=U1-43
+Added Net: Name=PHY4_MDIA_P
+Added Pin To Net: NetName=PHY4_MDIB_N Pin=RJ5-P4
+Added Pin To Net: NetName=PHY4_MDIB_N Pin=U1-46
+Added Net: Name=PHY4_MDIB_N
+Added Pin To Net: NetName=PHY4_MDIB_P Pin=RJ5-P7
+Added Pin To Net: NetName=PHY4_MDIB_P Pin=U1-45
+Added Net: Name=PHY4_MDIB_P
+Added Pin To Net: NetName=PHY4_MDIC_N Pin=RJ5-P5
+Added Pin To Net: NetName=PHY4_MDIC_N Pin=U1-49
+Added Net: Name=PHY4_MDIC_N
+Added Pin To Net: NetName=PHY4_MDIC_P Pin=RJ5-P6
+Added Pin To Net: NetName=PHY4_MDIC_P Pin=U1-48
+Added Net: Name=PHY4_MDIC_P
+Added Pin To Net: NetName=PHY4_MDID_N Pin=RJ5-P8
+Added Pin To Net: NetName=PHY4_MDID_N Pin=U1-51
+Added Net: Name=PHY4_MDID_N
+Added Pin To Net: NetName=PHY4_MDID_P Pin=RJ5-P9
+Added Pin To Net: NetName=PHY4_MDID_P Pin=U1-50
+Added Net: Name=PHY4_MDID_P
+Added Pin To Net: NetName=UART_RX Pin=H1-5
+Added Pin To Net: NetName=UART_RX Pin=U1-54
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=H1-3
+Added Pin To Net: NetName=UART_TX Pin=U1-55
+Added Net: Name=UART_TX
+Added Room: Name=Sheet1

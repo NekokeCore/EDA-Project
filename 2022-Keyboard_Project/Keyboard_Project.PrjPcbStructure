@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=主板.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=主板.SchDoc|FileName=蓝牙和数据.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=主板.SchDoc|FileName=键盘扫描.SchDoc|SheetNumber=3
